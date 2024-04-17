@@ -8,3 +8,13 @@ IV hi Hagger,0.199477337875461,NA
 IV est fatigue Hagger,0.0628735049511485,NA
 IV lo fatigue Hagger,-0.253823499462674,NA
 IV hi fatigue Hagger,0.37957050936497,NA
+XR est Hagger,0.78683728622636,NA
+XR lo Hagger,0.708976004018704,NA
+XR hi Hagger,0.864698568434016,NA
+XR min Hagger,1.14424959248424,NA
+ITT min across sites Hagger,-0.509902157,NA
+ITT max across sites Hagger,0.497432771,NA
+IV min across sites Hagger,-0.758517003273605,NA
+IV max across sites Hagger,0.547195671778679,NA
+N sites ITT attenuated Hagger,20,NA
+N sites ITT not attenuated Hagger,3,NA
